@@ -1,2 +1,3 @@
 # Portfolio
-#The Webpage is still under construction.
+- Static Portfolio Page:
+`https://tech-dipesh.github.io/Static-Portfolio/`
